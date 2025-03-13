@@ -1,0 +1,2 @@
+This document describes the project's architecture.
+It includes diagrams and explanations of the various components.
